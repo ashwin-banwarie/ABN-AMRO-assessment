@@ -43,7 +43,7 @@ Use this command to clone: git clone "clone link".
 
 2. Once it is cloned give "npm i" in the command prompt inside folder "ABN AMRO assessment" to install all node_modules and dependencies needed.
 
-3. Before running the tests, update the location path of the index.html on this location: /testautomation-web/pages/login_page.js on row 15. The path in the file, login_page.js on row 15 should be work as an hyperlink. See below for an example.
+3. Before running the tests, update the location path of the index.html on this location: ../pages/login_page.js on row 17. The path in the file, login_page.js on row 17 should be work as an hyperlink. See below for an example.
 
  Use the format as ('file:///Users/ashwin.banwarie/Documents/ABN%20AMRO/testautomation-web/index.html')
 
