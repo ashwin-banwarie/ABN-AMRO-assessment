@@ -1,0 +1,14 @@
+{
+  "name": "testautomation-web",
+  "version": "1.0.0",
+  "description": "We are looking for Automation Engineers that have the mindset \"only the sky is the limit\" and \"automation doesn't stop at testing, it's just a beginning!\" ;)",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2"
+  }
+}
